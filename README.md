@@ -1,7 +1,7 @@
 # Coleção de Jogos em Python
 
 ## Descrição
-Este repositório contém uma coleção de três jogos clássicos implementados em Python como um trabalho simples para a disciplina de **Raciocínio Algorítmico** no Curso de **Cibersegurança** na **OPUCPR**:
+Este repositório contém uma coleção de três jogos clássicos implementados em Python como um trabalho simples para a disciplina de **Raciocínio Algorítmico** no Curso de **Cibersegurança** na **PUCPR**:
 
 - **Jogo da Forca**
 - **Jogo da Memória**
